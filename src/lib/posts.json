@@ -1,0 +1,28 @@
+[
+    {
+        "title": "First Blog Post",
+        "images": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFnpIBmyafpow/feedshare-shrink_800/feedshare-shrink_800/0/1721390207123?e=1728518400&v=beta&t=vClos8keIzS9nLn28zdE4btyWBOimKX1hPFnHcIV3eg",
+            "alt": "Day in the life at Lex"
+          },
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4E22AQGqebcCgC6hJQ/feedshare-shrink_800/feedshare-shrink_800/0/1721390207080?e=1728518400&v=beta&t=Yy0BbxmV7rg9cdZrfg2D-7HpNJKLUCLoBaE1T2XQWEA",
+            "alt": "Manchester Pride 2023"
+          }
+        ],
+        "body": [
+            "Around three weeks ago, my placement year at Lloyds Banking Group came to an end. Having now had time to reflect and settle into all the changes of the last month, I'd like to share some thoughts.",
+            "Firstly, to any student considering whether or not to complete a placement year as part of your degree, DO IT! I cannot emphasise enough how brilliant the past year has been for my personal development helping achieve my career goals.",
+            "Studying at university in a subject you wish to work in is one thing... being thrown into the real thing full time for a year is completely another! Leaning about all the little details involved in the day-to-day role that you may not have even considered before. Putting your learnings to practical use in real-world applications is very fulfilling. The year will teach you if this is a career for you or not, and for me, I loved every second of it. ",
+            "Some of the highlights of my year on placement include; being mentored by excellent engineers who were so invested in my growth I felt empowered to keep learning and pushing myself further. By the end of my placement, I felt a fully-fledged member of the team and was very sad to be leaving. Getting involved with the rainbow network and having the privilege to represent Lloyds at 2 fabulous pride events, Manchester Pride and National Student Pride in London. And finally, making great friends along the way, sharing our learnings and making each other laugh on the more challenging days.",
+            "I would like to give thanks to all those who helped set me up for success over the last year, there are too many to tag individually, but each of your impressions has shaped me as a software engineer and I am truly grateful. ",
+            "The last three weeks have been challenging for me, personally and professionally. I have faced a lot of change in a short period of time, and I would be lying to say it has been a walk in the park. Change is something I have learnt to not only accept but embrace. As one chapter ends a new one is beginning.",
+            "Nevertheless, I am now feeling more settled, again with the help of a great network of friends & colleagues. I am now beginning to prepare myself to return to university for my final year and am very excited to take on the world after my graduation!"
+         ]
+            
+        
+      }
+]
+
+
