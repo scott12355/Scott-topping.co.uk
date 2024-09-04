@@ -1,14 +1,10 @@
 [
     {
-        "title": "First Blog Post",
+        "title": "My Placement At Lloyds",
         "images": [
           {
             "src": "https://media.licdn.com/dms/image/v2/D4E22AQFnpIBmyafpow/feedshare-shrink_800/feedshare-shrink_800/0/1721390207123?e=1728518400&v=beta&t=vClos8keIzS9nLn28zdE4btyWBOimKX1hPFnHcIV3eg",
             "alt": "Day in the life at Lex"
-          },
-          {
-            "src": "https://media.licdn.com/dms/image/v2/D4E22AQGqebcCgC6hJQ/feedshare-shrink_800/feedshare-shrink_800/0/1721390207080?e=1728518400&v=beta&t=Yy0BbxmV7rg9cdZrfg2D-7HpNJKLUCLoBaE1T2XQWEA",
-            "alt": "Manchester Pride 2023"
           }
         ],
         "body": [
@@ -20,8 +16,47 @@
             "The last three weeks have been challenging for me, personally and professionally. I have faced a lot of change in a short period of time, and I would be lying to say it has been a walk in the park. Change is something I have learnt to not only accept but embrace. As one chapter ends a new one is beginning.",
             "Nevertheless, I am now feeling more settled, again with the help of a great network of friends & colleagues. I am now beginning to prepare myself to return to university for my final year and am very excited to take on the world after my graduation!"
          ]
-            
-        
+      },
+      {
+        "title": "",
+        "images": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFEsFt5Ug8pUw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719413359086?e=1728518400&v=beta&t=CbYS2tYSNcl2QluaBwxxinsxgWSN1BDJ3TKCKuJfcTg",
+            "alt": "Westminster House Cake"
+          },
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4E22AQF2PF6vtsd2cA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719413357538?e=1728518400&v=beta&t=IphLM4nrFuHz630H50HZDms88JTy5z1L8Gx3FXmJymI",
+            "alt": "Image"
+          }
+        ],
+        "body": [
+          "There’s a real buzz around the office today! To mark the completion of the Manchester hub makeover we have had a Q & A, a talk on gut health, stalls from many of the awesome community networks and much more. It’s been an action-packed day."
+         ]
+      },
+      {
+        "title": "Reboot Hackathon London",
+        "images": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFGfv0XQELICg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718387311166?e=1728518400&v=beta&t=HQ8uitaxoW4yuODzZ-wRa1iTB4ZJxgQIZzKJjARjTMA",
+            "alt": "Reboot 2024 London"
+          }
+        ],
+        "body": [
+          "Bold - is the way I would describe our team at this weeks Reboot hackathon. All six of us being IPs, still willing to take on the challenges of a hackathon. Although we might have been the least experienced team in the running, we still pulled together a strong idea and a working MVP in the short space of the day! I think we all should be rather proud of ourselves."
+         ]
+      },
+      {
+        "title": "CyberSecurity Conference",
+        "images": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4D22AQH-4kqZ9jzTJg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1707508382235?e=1728518400&v=beta&t=5-kwTfOgqiV40XQUDNqV2ndFo13p4qolj4TbefuJoPY",
+            "alt": "CyberSecurity Conference Image"
+          }
+        ],
+        "body": [
+          "Yesterday, some colleagues and I had the opportunity to attend The Future Of Cyber Security conference in Manchester. It was a great day of learning for us all. Throughout many presentations from industry experts, we learnt about various cybersecurity topics as well as how to communicate technical concepts in a way that is easy to understand & engaging for all business members.",
+          "The final speaker of the day was Deborah Meaden, who kindly allowed us to ask any burning questions we had! It's safe to say, I left feeling inspired. "
+         ]
       }
 ]
 

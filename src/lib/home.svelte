@@ -4,7 +4,7 @@
 <body>
   <p3>Software Engineer</p3>
   <br />
-  <img class="profilePic" src={img} alt="Scott" />
+  <img class="profilePic" src="https://media.licdn.com/dms/image/v2/D4E03AQFDO8a7C6cleQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718800275415?e=1730937600&v=beta&t=MP2UOKbaJhrVd00ue6hXMdHUrvhmQ50fLv6kE-XA25U" alt="Scott" />
   <br />
   <p4>Computer Scientist</p4>
 
@@ -48,6 +48,7 @@
     align-content: center;
     width: 25%;
     height: 25%;
+    object-fit: cover;
     border-radius: 50%;
   }
 

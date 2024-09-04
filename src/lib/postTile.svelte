@@ -4,6 +4,7 @@
 </script>
 
 <div class="tile">
+	<h4>{content.title}</h4>
 	<div class="images">
 		{#each content.images as image, i}
 			{#if i < 3}
@@ -18,14 +19,7 @@
 </div>
 
 <style>
-	.column {
-		float: center;
-		vertical-align: center;
-		width: 33.3%;
-		padding: 5px;
-		vertical-align: center;
-		align-items: center;
-	}
+
 	.images {
 		margin: auto;
 		content: '';
@@ -56,5 +50,13 @@
 		margin-left: 9%;
 		margin-right: 9%;
 		color: aliceblue;
+	}
+
+	h4 {
+		color: white;
+        font-weight: bold;
+        margin-bottom: 10px;
+        margin-top: 10px;
+
 	}
 </style>
