@@ -10,4 +10,7 @@
 	{#each AllPosts as post}
 		<Tile content={post}></Tile>
 	{/each}
+	<br>
 </div>
+
+
