@@ -1,5 +1,7 @@
 // See https://kit.svelte.dev/docs/types#app
 // for information about these interfaces
+import './main.css'; // Adjust the path as necessary
+
 declare global {
 	namespace App {
 		// interface Error {}
@@ -11,11 +13,11 @@ declare global {
 		type Content = {
 			title: string;
 			images: string[];
-			body : string;  
-		  }
+			body: string;
+		}
 	}
 }
 
 
 
-export {};
+export { };
