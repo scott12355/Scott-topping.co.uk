@@ -12,7 +12,7 @@
 	import { createEventDispatcher } from 'svelte';
 
 	const dispatch = createEventDispatcher();
-	const updateContent = (view) => {
+	const updateContent = (/** @type {string} */ view) => {
 		currentView = view;
 		dispatch('viewChange', view);
 		closeNav();
@@ -26,11 +26,11 @@
 	>
 	<!-- Overlay content -->
 	<div class="overlay-content">
-		<a href="#" role="button" on:click|preventDefault={() => updateContent('Home')}>Home</a>
-		<a href="#" role="button" on:click|preventDefault={() => updateContent('Experiences')}
+		<a href="#" role="button" on:click|preventDefault={() => updateContent('/')}>Home</a>
+		<a href="#" role="button" on:click|preventDefault={() => updateContent('/experiences')}
 			>Experiences</a
 		>
-		<a href="#" role="button" on:click|preventDefault={() => updateContent('Contact')}>Contact</a>
+		<a href="#" role="button" on:click|preventDefault={() => updateContent('/contact')}>Contact</a>
 	</div>
 </div>
 
@@ -74,7 +74,6 @@
 		margin: auto;
 		width: 60%;
 		max-width: 800px;
-		margin-bottom: 75;
 		padding: 0;
 		text-align: center;
 	}
@@ -106,17 +105,20 @@
 	.mobileBar {
 		padding: 0px;
 		margin: 0%;
-		background-color: #0044fec7;
+		background-color: #daebf9c7;
 		border: 0px;
 		width: 100%;
 		height: 40px;
 		border-radius: 5px;
+		border-radius: 1;
+		border: #000000;
 	}
 	.mobileMenuButton {
 		font-size: 20px;
+
 		padding: 0%;
 		width: 50%;
-		background-color: #4463b8;
+		background-color: #56a1ec;
 		cursor: pointer;
 		border: 0px;
 		text-align: center;

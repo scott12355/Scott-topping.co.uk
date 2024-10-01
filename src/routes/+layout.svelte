@@ -19,15 +19,7 @@
 	}
 </script>
 
-<div>
-	<header>
-		<br class="hidden-mobile" />
-		<h1 class="text-[100px]">Scott Topping</h1>
-		<h4 class="p-1">Junior Software Engineer</h4>
-	</header>
-</div>
-
-<header class="p-5">
+<header class="pt-1 pb-1">
 	<NavBar on:viewChange={updateView}></NavBar>
 </header>
 <slot></slot>

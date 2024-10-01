@@ -2,7 +2,7 @@
 	import img from '$lib/images/scott-headshot.jpg';
 </script>
 
-<body class="p-10">
+<body class="p-5">
 	<div class="flex items-center justify-center pb-10">
 		<img
 			class="rounded-full w-[25%] h-[25%] object-cover items-center justify-center"
@@ -39,21 +39,8 @@
 	<br />
 </body>
 
-<style type="text/css">
-	.profilePic {
-		margin: 5%;
-		align-content: center;
-		width: 25%;
-		height: 25%;
-		object-fit: cover;
-		border-radius: 50%;
-	}
-
+<!-- <style type="text/css">
 	body {
 		margin-bottom: 100px;
 	}
-
-	p3 {
-		margin: 100px;
-	}
-</style>
+</style> -->
