@@ -6,7 +6,7 @@
 	import Experiences from '$lib/experiences.svelte';
 	import Contact from '$lib/contact.svelte';
 	import { goto } from '$app/navigation';
-
+	import { inject } from '@vercel/analytics';
 	let currentView = 'Home';
 
 	/**
