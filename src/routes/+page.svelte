@@ -8,11 +8,11 @@
 </script>
 
 <body>
-	<ul>
+	<!-- <ul>
 		{#each data.countries as country}
 			<li>{country.name}</li>
 		{/each}
-	</ul>
+	</ul> -->
 	<div>
 		<header>
 			<h1 class="text-7xl text-center">Scott Topping</h1>
