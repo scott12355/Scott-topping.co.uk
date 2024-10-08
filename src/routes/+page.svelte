@@ -4,9 +4,15 @@
 	import FaLinkedin from 'svelte-icons/fa/FaLinkedin.svelte';
 
 	import FaGithub from 'svelte-icons/fa/FaGithub.svelte';
+	export let data;
 </script>
 
 <body>
+	<ul>
+		{#each data.countries as country}
+			<li>{country.name}</li>
+		{/each}
+	</ul>
 	<div>
 		<header>
 			<h1 class="text-7xl text-center">Scott Topping</h1>

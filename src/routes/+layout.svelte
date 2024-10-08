@@ -23,3 +23,6 @@
 	<NavBar on:viewChange={updateView}></NavBar>
 </header>
 <slot></slot>
+
+<style>
+</style>
