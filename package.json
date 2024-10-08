@@ -35,6 +35,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@supabase/supabase-js": "^2.45.4",
 		"@vercel/analytics": "^1.3.1",
 		"svelte-adapter-azure-swa": "^0.20.1"
 	}
