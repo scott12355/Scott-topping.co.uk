@@ -3,7 +3,7 @@
         "title": "My Placement At Lloyds",
         "images": [
           {
-            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFnpIBmyafpow/feedshare-shrink_800/feedshare-shrink_800/0/1721390207123?e=1728518400&v=beta&t=vClos8keIzS9nLn28zdE4btyWBOimKX1hPFnHcIV3eg",
+            "src": "images/lex.jpg",
             "alt": "Day in the life at Lex"
           }
         ],
@@ -21,11 +21,11 @@
         "title": "",
         "images": [
           {
-            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFEsFt5Ug8pUw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719413359086?e=1728518400&v=beta&t=CbYS2tYSNcl2QluaBwxxinsxgWSN1BDJ3TKCKuJfcTg",
+            "src": "images/cake.jpg",
             "alt": "Westminster House Cake"
           },
           {
-            "src": "https://media.licdn.com/dms/image/v2/D4E22AQF2PF6vtsd2cA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1719413357538?e=1728518400&v=beta&t=IphLM4nrFuHz630H50HZDms88JTy5z1L8Gx3FXmJymI",
+            "src": "images/talk1.jpg",
             "alt": "Image"
           }
         ],
@@ -37,7 +37,7 @@
         "title": "Reboot Hackathon London",
         "images": [
           {
-            "src": "https://media.licdn.com/dms/image/v2/D4E22AQFGfv0XQELICg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718387311166?e=1728518400&v=beta&t=HQ8uitaxoW4yuODzZ-wRa1iTB4ZJxgQIZzKJjARjTMA",
+            "src": "images/LDNhack.jpg",
             "alt": "Reboot 2024 London"
           }
         ],
@@ -49,7 +49,7 @@
         "title": "CyberSecurity Conference",
         "images": [
           {
-            "src": "https://media.licdn.com/dms/image/v2/D4D22AQH-4kqZ9jzTJg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1707508382235?e=1728518400&v=beta&t=5-kwTfOgqiV40XQUDNqV2ndFo13p4qolj4TbefuJoPY",
+            "src": "images/cyber.jpg",
             "alt": "CyberSecurity Conference Image"
           }
         ],

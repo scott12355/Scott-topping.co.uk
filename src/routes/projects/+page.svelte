@@ -10,7 +10,7 @@
 		<p>
 			Welcome to my chatbot project! This is my first look into NLP chatbot development. Built with
 			Python using and using hugging-face spaces to host this model. For the purpose of cheap
-			hosting, this particular chatbot is very light weight and so prone to hallucinations.
+			hosting, this particular chatbot is very light weight, so is prone to hallucinations.
 		</p>
 		<p>
 			This chatbot uses the Qwen2.5-1.5B-Instruct model. Additionally, my chatbot incorporates a

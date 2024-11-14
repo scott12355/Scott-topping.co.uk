@@ -19,7 +19,6 @@
 </div>
 
 <style>
-
 	.images {
 		margin: auto;
 		content: '';
@@ -54,9 +53,8 @@
 
 	h4 {
 		color: white;
-        font-weight: bold;
-        margin-bottom: 10px;
-        margin-top: 10px;
-
+		font-weight: bold;
+		margin-bottom: 10px;
+		margin-top: 10px;
 	}
 </style>
