@@ -30,8 +30,7 @@
 		<a href="#" role="button" on:click|preventDefault={() => updateContent('/experiences')}
 			>Experiences</a
 		>
-		<a href="#" role="button" on:click|preventDefault={() => updateContent('/projects')}>Projects</a
-		>
+		<a href="#" role="button" on:click|preventDefault={() => updateContent('/projects')}>Chatbot</a>
 		<a href="#" role="button" on:click|preventDefault={() => updateContent('/contact')}>Contact</a>
 	</div>
 </div>
@@ -52,7 +51,7 @@
 		</li>
 		<li>
 			<a href="#" role="button" on:click|preventDefault={() => updateContent('/projects')}
-				>Projects</a
+				>Chatbot</a
 			>
 		</li>
 		<li>
