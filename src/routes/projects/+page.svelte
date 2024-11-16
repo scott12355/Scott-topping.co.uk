@@ -1,12 +1,14 @@
 <script lang="ts">
+	import Conversation from '$lib/conversation.svelte';
 </script>
 
-<div class="flex flex-col justify-center items-center pt-10 space-y-4 p-5">
+<div class="flex flex-col justify-center items-center pt-10 space-y-4 p-1">
 	<h1>Welcome to ScottBot's AI Chatbot!</h1>
-	<iframe src="https://scott12355-scottbot.hf.space" frameborder="0" width="100%" height="450"
-	></iframe>
+	<!-- <iframe src="https://scott12355-scottbot.hf.space" frameborder="0" width="100%" height="450"
+	></iframe> -->
 
 	<div class="flex-col justify-center items-center space-y-4 p-9">
+		<Conversation />
 		<p>
 			Welcome to my chatbot project! This is my first look into NLP chatbot development. Built with
 			Python using and using hugging-face spaces to host this model. For the purpose of cheap
